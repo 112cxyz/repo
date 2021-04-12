@@ -1,13 +1,27 @@
 Package: com.tsumii.pojavlauncher
 Name: Pojav Launcher 
-Version: 1.0
+Version: 1.1
 Architecture: iphoneos-arm
-Description: Mincraft Java In Your Pocket
+Description: Minecraft Java In Your Pocket
 Maintainer: Tsumii_ <tsumiicode@gmail.com>
 Author: Tsumii_ <tsumiicode@gmail.com>
 Section: Package
 Depends: com.tsumii.java
 Filename: debs/pojavlauncher_iphoneos-arm.deb
+Size: 9381088
+MD5sum: 994a80626a4eb4fd2f08a162831f16b7
+SHA1: 4E68BEA5BFADFFF4F2F6E80E4BBA560E1CD6F1E8
+SHA256:DB899BD4338AF0ECDCC41F455A82A3829E0FC8DE269FAD5E005F43079837285D
+Package: com.tsumii.java
+Name: Java
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Java 16
+Maintainer: Tsumii_ <tsumiicode@gmail.com>
+Author: Tsumii_ <tsumiicode@gmail.com>
+Section: Package
+Depends:
+Filename: debs/openjdk-16-jre_16.0.0+git20201217.8383f41-2_iphoneos-arm.deb
 Size: 9381088
 MD5sum: 994a80626a4eb4fd2f08a162831f16b7
 SHA1: 4E68BEA5BFADFFF4F2F6E80E4BBA560E1CD6F1E8
