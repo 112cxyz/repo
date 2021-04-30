@@ -9,7 +9,8 @@ Section: Package
 Depends: com.tsumii.java
 Filename: debs/pojavlauncher_iphoneos-arm.deb
 Size: 9381088
-MD5sum: dc9d0eb71d43bad97cd3d2af57eb7c15
+MD5sum: 6c457576813906dd5ae5eb2d697c5791
+SHA256: 33e89508aedd24144aa91f7b7f34722428a2e673383bba2b8642aa5c5eb122f0
 
 Package: com.tsumii.java
 Name: Java
@@ -19,7 +20,7 @@ Description: Java 16
 Maintainer: Tsumii_ <tsumiicode@gmail.com>
 Author: Tsumii_ <tsumiicode@gmail.com>
 Section: Package
-Depends:
 Filename: debs/openjdk-16-jre_16.0.0+git20201217.8383f41-2_iphoneos-arm.deb
 Size: 58095988
-MD5sum: d52387880e1ea22817a72d3759213819
+MD5sum: 14a4c7c7c411a4a7c469cdcadc2680ee
+SHA256: 170cf1131d496641167cc79e696394966571ce1fc2628c755a4ca685115daa87
